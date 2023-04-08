@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+ny_taxi_data
+*.csv
+.idea
+notnotnot
+.csv
+-p
+-e
+-v
+3
+postgres
